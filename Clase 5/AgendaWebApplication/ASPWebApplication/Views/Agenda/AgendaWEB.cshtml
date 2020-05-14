@@ -1,0 +1,39 @@
+﻿@model ASPWebApplication.Models.Contacto
+
+@{
+    ViewBag.Title = "Agregar Contacto";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Agenda</h2>
+
+
+@using (Html.BeginForm("Create", "Agenda", FormMethod.Post))
+{
+<div>
+
+    <div>
+        <label>Nombre: </label>
+        <div>
+            @Html.EditorFor(model => model.Nombre)
+        </div>
+
+    </div>
+
+    <div>
+        <label>Telefono: </label>
+        <div>
+            @Html.EditorFor(model => model.Telefono)
+        </div>
+
+    </div>
+
+    <div>
+        <div>
+            <input type="submit" value="Crear" />
+        </div>
+
+    </div>
+
+</div>
+}

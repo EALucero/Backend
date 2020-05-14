@@ -1,0 +1,17 @@
+﻿@model List<ASPWebApplication.Models.Contacto>
+
+@{
+    ViewBag.Title = "Contactos";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Contactos</h2>
+
+@foreach (var contacto in Model)
+{
+    <p>Nombre: @contacto.Nombre</p>
+    <p>Telefono: @contacto.Telefono</p>
+}
+
+
+
