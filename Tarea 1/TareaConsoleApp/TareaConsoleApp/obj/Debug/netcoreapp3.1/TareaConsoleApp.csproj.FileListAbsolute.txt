@@ -1,0 +1,13 @@
+C:\Users\diadiacomputacion\source\repos\EALucero\Backend\Tarea 1\TareaConsoleApp\TareaConsoleApp\obj\Debug\netcoreapp3.1\TareaConsoleApp.csprojAssemblyReference.cache
+C:\Users\diadiacomputacion\source\repos\EALucero\Backend\Tarea 1\TareaConsoleApp\TareaConsoleApp\obj\Debug\netcoreapp3.1\TareaConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\diadiacomputacion\source\repos\EALucero\Backend\Tarea 1\TareaConsoleApp\TareaConsoleApp\obj\Debug\netcoreapp3.1\TareaConsoleApp.AssemblyInfoInputs.cache
+C:\Users\diadiacomputacion\source\repos\EALucero\Backend\Tarea 1\TareaConsoleApp\TareaConsoleApp\obj\Debug\netcoreapp3.1\TareaConsoleApp.AssemblyInfo.cs
+C:\Users\diadiacomputacion\source\repos\EALucero\Backend\Tarea 1\TareaConsoleApp\TareaConsoleApp\bin\Debug\netcoreapp3.1\TareaConsoleApp.exe
+C:\Users\diadiacomputacion\source\repos\EALucero\Backend\Tarea 1\TareaConsoleApp\TareaConsoleApp\bin\Debug\netcoreapp3.1\TareaConsoleApp.deps.json
+C:\Users\diadiacomputacion\source\repos\EALucero\Backend\Tarea 1\TareaConsoleApp\TareaConsoleApp\bin\Debug\netcoreapp3.1\TareaConsoleApp.runtimeconfig.json
+C:\Users\diadiacomputacion\source\repos\EALucero\Backend\Tarea 1\TareaConsoleApp\TareaConsoleApp\bin\Debug\netcoreapp3.1\TareaConsoleApp.runtimeconfig.dev.json
+C:\Users\diadiacomputacion\source\repos\EALucero\Backend\Tarea 1\TareaConsoleApp\TareaConsoleApp\bin\Debug\netcoreapp3.1\TareaConsoleApp.dll
+C:\Users\diadiacomputacion\source\repos\EALucero\Backend\Tarea 1\TareaConsoleApp\TareaConsoleApp\bin\Debug\netcoreapp3.1\TareaConsoleApp.pdb
+C:\Users\diadiacomputacion\source\repos\EALucero\Backend\Tarea 1\TareaConsoleApp\TareaConsoleApp\obj\Debug\netcoreapp3.1\TareaConsoleApp.dll
+C:\Users\diadiacomputacion\source\repos\EALucero\Backend\Tarea 1\TareaConsoleApp\TareaConsoleApp\obj\Debug\netcoreapp3.1\TareaConsoleApp.pdb
+C:\Users\diadiacomputacion\source\repos\EALucero\Backend\Tarea 1\TareaConsoleApp\TareaConsoleApp\obj\Debug\netcoreapp3.1\TareaConsoleApp.genruntimeconfig.cache
