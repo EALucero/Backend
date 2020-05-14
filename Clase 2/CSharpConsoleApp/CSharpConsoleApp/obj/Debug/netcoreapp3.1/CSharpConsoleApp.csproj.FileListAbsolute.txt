@@ -1,0 +1,13 @@
+C:\Users\diadiacomputacion\source\repos\EALucero\Backend\Clase 2\CSharpConsoleApp\CSharpConsoleApp\bin\Debug\netcoreapp3.1\CSharpConsoleApp.exe
+C:\Users\diadiacomputacion\source\repos\EALucero\Backend\Clase 2\CSharpConsoleApp\CSharpConsoleApp\bin\Debug\netcoreapp3.1\CSharpConsoleApp.deps.json
+C:\Users\diadiacomputacion\source\repos\EALucero\Backend\Clase 2\CSharpConsoleApp\CSharpConsoleApp\bin\Debug\netcoreapp3.1\CSharpConsoleApp.runtimeconfig.json
+C:\Users\diadiacomputacion\source\repos\EALucero\Backend\Clase 2\CSharpConsoleApp\CSharpConsoleApp\bin\Debug\netcoreapp3.1\CSharpConsoleApp.runtimeconfig.dev.json
+C:\Users\diadiacomputacion\source\repos\EALucero\Backend\Clase 2\CSharpConsoleApp\CSharpConsoleApp\bin\Debug\netcoreapp3.1\CSharpConsoleApp.dll
+C:\Users\diadiacomputacion\source\repos\EALucero\Backend\Clase 2\CSharpConsoleApp\CSharpConsoleApp\bin\Debug\netcoreapp3.1\CSharpConsoleApp.pdb
+C:\Users\diadiacomputacion\source\repos\EALucero\Backend\Clase 2\CSharpConsoleApp\CSharpConsoleApp\obj\Debug\netcoreapp3.1\CSharpConsoleApp.csprojAssemblyReference.cache
+C:\Users\diadiacomputacion\source\repos\EALucero\Backend\Clase 2\CSharpConsoleApp\CSharpConsoleApp\obj\Debug\netcoreapp3.1\CSharpConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\diadiacomputacion\source\repos\EALucero\Backend\Clase 2\CSharpConsoleApp\CSharpConsoleApp\obj\Debug\netcoreapp3.1\CSharpConsoleApp.AssemblyInfoInputs.cache
+C:\Users\diadiacomputacion\source\repos\EALucero\Backend\Clase 2\CSharpConsoleApp\CSharpConsoleApp\obj\Debug\netcoreapp3.1\CSharpConsoleApp.AssemblyInfo.cs
+C:\Users\diadiacomputacion\source\repos\EALucero\Backend\Clase 2\CSharpConsoleApp\CSharpConsoleApp\obj\Debug\netcoreapp3.1\CSharpConsoleApp.dll
+C:\Users\diadiacomputacion\source\repos\EALucero\Backend\Clase 2\CSharpConsoleApp\CSharpConsoleApp\obj\Debug\netcoreapp3.1\CSharpConsoleApp.pdb
+C:\Users\diadiacomputacion\source\repos\EALucero\Backend\Clase 2\CSharpConsoleApp\CSharpConsoleApp\obj\Debug\netcoreapp3.1\CSharpConsoleApp.genruntimeconfig.cache
