@@ -1,0 +1,13 @@
+C:\Users\diadiacomputacion\source\repos\EALucero\Backend\Clase 4\POOConsoleApp\POOConsoleApp\bin\Debug\netcoreapp3.1\POOConsoleApp.exe
+C:\Users\diadiacomputacion\source\repos\EALucero\Backend\Clase 4\POOConsoleApp\POOConsoleApp\bin\Debug\netcoreapp3.1\POOConsoleApp.deps.json
+C:\Users\diadiacomputacion\source\repos\EALucero\Backend\Clase 4\POOConsoleApp\POOConsoleApp\bin\Debug\netcoreapp3.1\POOConsoleApp.runtimeconfig.json
+C:\Users\diadiacomputacion\source\repos\EALucero\Backend\Clase 4\POOConsoleApp\POOConsoleApp\bin\Debug\netcoreapp3.1\POOConsoleApp.runtimeconfig.dev.json
+C:\Users\diadiacomputacion\source\repos\EALucero\Backend\Clase 4\POOConsoleApp\POOConsoleApp\bin\Debug\netcoreapp3.1\POOConsoleApp.dll
+C:\Users\diadiacomputacion\source\repos\EALucero\Backend\Clase 4\POOConsoleApp\POOConsoleApp\bin\Debug\netcoreapp3.1\POOConsoleApp.pdb
+C:\Users\diadiacomputacion\source\repos\EALucero\Backend\Clase 4\POOConsoleApp\POOConsoleApp\obj\Debug\netcoreapp3.1\POOConsoleApp.csprojAssemblyReference.cache
+C:\Users\diadiacomputacion\source\repos\EALucero\Backend\Clase 4\POOConsoleApp\POOConsoleApp\obj\Debug\netcoreapp3.1\POOConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\diadiacomputacion\source\repos\EALucero\Backend\Clase 4\POOConsoleApp\POOConsoleApp\obj\Debug\netcoreapp3.1\POOConsoleApp.AssemblyInfoInputs.cache
+C:\Users\diadiacomputacion\source\repos\EALucero\Backend\Clase 4\POOConsoleApp\POOConsoleApp\obj\Debug\netcoreapp3.1\POOConsoleApp.AssemblyInfo.cs
+C:\Users\diadiacomputacion\source\repos\EALucero\Backend\Clase 4\POOConsoleApp\POOConsoleApp\obj\Debug\netcoreapp3.1\POOConsoleApp.dll
+C:\Users\diadiacomputacion\source\repos\EALucero\Backend\Clase 4\POOConsoleApp\POOConsoleApp\obj\Debug\netcoreapp3.1\POOConsoleApp.pdb
+C:\Users\diadiacomputacion\source\repos\EALucero\Backend\Clase 4\POOConsoleApp\POOConsoleApp\obj\Debug\netcoreapp3.1\POOConsoleApp.genruntimeconfig.cache
