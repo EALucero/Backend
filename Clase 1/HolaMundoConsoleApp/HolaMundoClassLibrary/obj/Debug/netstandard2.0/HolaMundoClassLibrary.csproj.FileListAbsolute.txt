@@ -1,0 +1,18 @@
+C:\Users\diadiacomputacion\source\repos\HolaMundoConsoleApp\HolaMundoClassLibrary\bin\Debug\netstandard2.0\HolaMundoClassLibrary.deps.json
+C:\Users\diadiacomputacion\source\repos\HolaMundoConsoleApp\HolaMundoClassLibrary\bin\Debug\netstandard2.0\HolaMundoClassLibrary.dll
+C:\Users\diadiacomputacion\source\repos\HolaMundoConsoleApp\HolaMundoClassLibrary\bin\Debug\netstandard2.0\HolaMundoClassLibrary.pdb
+C:\Users\diadiacomputacion\source\repos\HolaMundoConsoleApp\HolaMundoClassLibrary\obj\Debug\netstandard2.0\HolaMundoClassLibrary.csprojAssemblyReference.cache
+C:\Users\diadiacomputacion\source\repos\HolaMundoConsoleApp\HolaMundoClassLibrary\obj\Debug\netstandard2.0\HolaMundoClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\diadiacomputacion\source\repos\HolaMundoConsoleApp\HolaMundoClassLibrary\obj\Debug\netstandard2.0\HolaMundoClassLibrary.AssemblyInfoInputs.cache
+C:\Users\diadiacomputacion\source\repos\HolaMundoConsoleApp\HolaMundoClassLibrary\obj\Debug\netstandard2.0\HolaMundoClassLibrary.AssemblyInfo.cs
+C:\Users\diadiacomputacion\source\repos\HolaMundoConsoleApp\HolaMundoClassLibrary\obj\Debug\netstandard2.0\HolaMundoClassLibrary.dll
+C:\Users\diadiacomputacion\source\repos\HolaMundoConsoleApp\HolaMundoClassLibrary\obj\Debug\netstandard2.0\HolaMundoClassLibrary.pdb
+C:\Users\diadiacomputacion\source\repos\EALucero\Backend\Clase 1\HolaMundoConsoleApp\HolaMundoClassLibrary\bin\Debug\netstandard2.0\HolaMundoClassLibrary.deps.json
+C:\Users\diadiacomputacion\source\repos\EALucero\Backend\Clase 1\HolaMundoConsoleApp\HolaMundoClassLibrary\bin\Debug\netstandard2.0\HolaMundoClassLibrary.dll
+C:\Users\diadiacomputacion\source\repos\EALucero\Backend\Clase 1\HolaMundoConsoleApp\HolaMundoClassLibrary\bin\Debug\netstandard2.0\HolaMundoClassLibrary.pdb
+C:\Users\diadiacomputacion\source\repos\EALucero\Backend\Clase 1\HolaMundoConsoleApp\HolaMundoClassLibrary\obj\Debug\netstandard2.0\HolaMundoClassLibrary.csprojAssemblyReference.cache
+C:\Users\diadiacomputacion\source\repos\EALucero\Backend\Clase 1\HolaMundoConsoleApp\HolaMundoClassLibrary\obj\Debug\netstandard2.0\HolaMundoClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\diadiacomputacion\source\repos\EALucero\Backend\Clase 1\HolaMundoConsoleApp\HolaMundoClassLibrary\obj\Debug\netstandard2.0\HolaMundoClassLibrary.AssemblyInfoInputs.cache
+C:\Users\diadiacomputacion\source\repos\EALucero\Backend\Clase 1\HolaMundoConsoleApp\HolaMundoClassLibrary\obj\Debug\netstandard2.0\HolaMundoClassLibrary.AssemblyInfo.cs
+C:\Users\diadiacomputacion\source\repos\EALucero\Backend\Clase 1\HolaMundoConsoleApp\HolaMundoClassLibrary\obj\Debug\netstandard2.0\HolaMundoClassLibrary.dll
+C:\Users\diadiacomputacion\source\repos\EALucero\Backend\Clase 1\HolaMundoConsoleApp\HolaMundoClassLibrary\obj\Debug\netstandard2.0\HolaMundoClassLibrary.pdb

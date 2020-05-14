@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "HolaMundoConsoleApp/1.0.0": {
+        "dependencies": {
+          "HolaMundoClassLibrary": "1.0.0"
+        },
+        "runtime": {
+          "HolaMundoConsoleApp.dll": {}
+        }
+      },
+      "HolaMundoClassLibrary/1.0.0": {
+        "runtime": {
+          "HolaMundoClassLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HolaMundoConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HolaMundoClassLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lD+RMR013MsrQCOwy4tf4j/VFV8cRE3fX4ZEPmC0tF2iMtaQ3EPkY1E7Fr0f57ESILtW+SW6P9OFaANIB+vf7g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\diadiacomputacion\\source\\repos\\EALucero\\Backend\\Clase 1\\HolaMundoConsoleApp\\HolaMundoClassLibrary\\HolaMundoClassLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\diadiacomputacion\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\diadiacomputacion\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
